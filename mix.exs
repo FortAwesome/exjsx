@@ -18,7 +18,7 @@ defmodule EXJSX.Mixfile do
   end
 
   defp deps do
-    [{:jsx, "~> 2.8.0"}, {:ex_doc, "~> 0.14", only: :dev}]
+    [{:jsx, "~> 3.1.0"}, {:ex_doc, "~> 0.14", only: :dev}]
   end
 
   defp description do
